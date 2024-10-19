@@ -1,0 +1,13 @@
+{
+  "name": "medical-booking-backend",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.3",
+    "dotenv": "^10.0.0",
+    "cors": "^2.8.5"
+  }
+}
